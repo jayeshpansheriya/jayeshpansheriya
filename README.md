@@ -9,8 +9,6 @@
 
  - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/jayeshpatel1995/)
  
-<p align="center" >
-<a href="https://github.com/jayeshpansheriya/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=jayeshpansheriya&&show_icons=true&theme=radical"/>
-  </a>
-</p>
+
+[![Jayesh's github stats](https://github-readme-stats.vercel.app/api?username=jayeshpansheriya&show_icons=true&theme=merko)](https://github.com/jayeshpansheriya)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshpansheriya&layout=compact&theme=merko)](https://github.com/jayeshpansheriya/github-readme-stats)
