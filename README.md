@@ -26,6 +26,7 @@ Talk to me about
 [![Twitter Badge](https://img.shields.io/badge/-@jayeshpatel1995-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jayeshpatel1995)](https://twitter.com/jayeshpatel1995) 
 [![Linkedin Badge](https://img.shields.io/badge/-jayeshpansheriya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayeshpansheriya/)](https://www.linkedin.com/in/jayeshpansheriya/)
 [![Instagram Badge](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/jay_pansheriya/)
+
  [![Medium Badge](https://img.shields.io/badge/-@pansheriyajayesh-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pansheriyajayesh/)](https://medium.com/@pansheriyajayesh/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pansheriyajayesh@gmail.com)](mailto:pansheriyajayesh@gmail.com)
 
