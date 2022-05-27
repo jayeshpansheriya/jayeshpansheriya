@@ -32,3 +32,4 @@ Talk to me about
 
 [![Jayesh's github stats](https://github-readme-stats.vercel.app/api?username=jayeshpansheriya&show_icons=true&theme=merko)](https://github.com/jayeshpansheriya)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshpansheriya&layout=compact&theme=merko)](https://github.com/jayeshpansheriya/github-readme-stats)
+ [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=jayeshpansheriya&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/jayeshpansheriya)
