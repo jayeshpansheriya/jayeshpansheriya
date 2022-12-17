@@ -32,7 +32,7 @@ Talk to me about
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jay_pansheriya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayeshpansheriya) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pansheriyajayesh) 
-[![Twitter](https://img.shields.io/twitter/follow/imthepk?logo=Twitter&style=for-the-badge)](https://twitter.com/jayeshpatel1995)
+[![Twitter](https://img.shields.io/twitter/follow/jayeshpatel1995?logo=Twitter&style=for-the-badge)](https://twitter.com/jayeshpatel1995)
 
 ### 💳 Github Profile Summary Card
 <p align="center">
