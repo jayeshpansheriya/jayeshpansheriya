@@ -7,6 +7,8 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Jayesh Pansheriya | 💻 Flutter Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshpansheriya&label=Views&color=blue&style=plastic&style=for-the-badge" alt="jayeshpansheriya"/> </p>
+
 ### ⚡ Technologies
 Talk to me about
 - Mobile application development using **Flutter,Android**
