@@ -37,12 +37,12 @@ Talk to me about
  [![Medium Badge](https://img.shields.io/badge/-@pansheriyajayesh-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pansheriyajayesh/)](https://medium.com/@pansheriyajayesh/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pansheriyajayesh@gmail.com)](mailto:pansheriyajayesh@gmail.com)
 
-## 💳 Github Profile Summary Card
+### 💳 Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayeshpansheriya&theme=merko"/>
 </p>
 
-## 📟 GitHub Stats
+### 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jayeshpansheriya&show_icons=true&theme=merko" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshpansheriya&theme=merko" />
