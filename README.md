@@ -48,6 +48,11 @@ Talk to me about
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshpansheriya&theme=merko" />
 </p>
 
-[![Jayesh's github stats](https://github-readme-stats.vercel.app/api?username=jayeshpansheriya&show_icons=true&theme=merko)](https://github.com/jayeshpansheriya)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshpansheriya&layout=compact&theme=merko)](https://github.com/jayeshpansheriya)
- [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=jayeshpansheriya&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/jayeshpansheriya)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jayeshpansheriya&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshpansheriya&layout=compact&theme=merko)](https://github.com/jayeshpansheriya) -->
