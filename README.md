@@ -25,8 +25,8 @@ Talk to me about
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
-
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+ -->
 
 ###  📫 How to reach me:
 
@@ -39,7 +39,7 @@ Talk to me about
 
 ### 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayeshpansheriya&theme=merko"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayeshpansheriya&theme=vue"/>
 </p>
 
 ### 📟 GitHub Stats
