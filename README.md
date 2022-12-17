@@ -27,15 +27,12 @@ Talk to me about
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
  -->
-
-###  📫 How to reach me:
-
-[![Twitter Badge](https://img.shields.io/badge/-@jayeshpatel1995-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jayeshpatel1995)](https://twitter.com/jayeshpatel1995) 
-[![Linkedin Badge](https://img.shields.io/badge/-jayeshpansheriya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayeshpansheriya/)](https://www.linkedin.com/in/jayeshpansheriya/)
-[![Instagram Badge](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/jay_pansheriya/)
-
- [![Medium Badge](https://img.shields.io/badge/-@pansheriyajayesh-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pansheriyajayesh/)](https://medium.com/@pansheriyajayesh/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pansheriyajayesh@gmail.com)](mailto:pansheriyajayesh@gmail.com)
+ 
+### 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jay_pansheriya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayeshpansheriya) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pansheriyajayesh) 
+[![Twitter](https://img.shields.io/twitter/follow/imthepk?logo=Twitter&style=for-the-badge)](https://twitter.com/jayeshpatel1995)
 
 ### 💳 Github Profile Summary Card
 <p align="center">
